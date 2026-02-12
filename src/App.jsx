@@ -4,7 +4,7 @@ import gridBg from "./assets/grid-bg.png";
 import HowToSend from "./components/HowToSend";
 import TrustSection from "./components/TrustSectionMobile";
 import Testimonials from "./components/Testimonials";
-import Trust from "./components/trust"; // Adjust the path if needed
+import Trust from "./components/Trust"; // Adjust the path if needed
 import Faq from "./sections/Faq"; 
 import Exp from "./components/Experience"; 
 import Footer from "./sections/Footer";
